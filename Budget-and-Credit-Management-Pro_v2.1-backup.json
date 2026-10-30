@@ -1,0 +1,242 @@
+{
+  "app": "bcmp",
+  "product": "Budget and Credit Management Pro",
+  "version": "2.1",
+  "savedAt": "2026-10-27T23:08:44.095Z",
+  "target": 0,
+  "includeClosed": true,
+  "accounts": [
+    {
+      "id": "461c3yh",
+      "name": "USAA-9671",
+      "type": "revolving",
+      "closed": false,
+      "balance": 0,
+      "limit": 7000,
+      "close": 1,
+      "due": 9,
+      "minDue": 234,
+      "apr": 29.4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": []
+    },
+    {
+      "id": "0ih3qa9",
+      "name": "CapitalOne-3076",
+      "type": "revolving",
+      "closed": false,
+      "balance": 31.09,
+      "limit": 7000,
+      "close": 27,
+      "due": 21,
+      "minDue": 80,
+      "apr": 4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": [
+        {
+          "id": "kstu9ww2ia",
+          "date": "2026-10-23",
+          "type": "payment",
+          "amount": 6307,
+          "note": "",
+          "ts": 1793142181810
+        },
+        {
+          "id": "x8vvgocxqy",
+          "date": "2026-10-27",
+          "type": "adjust",
+          "amount": 31.09,
+          "note": "Balance updated in account form",
+          "ts": 1793142315610
+        }
+      ]
+    },
+    {
+      "id": "hq6i5o3",
+      "name": "Citi-7849",
+      "type": "revolving",
+      "closed": false,
+      "balance": 4525.34,
+      "limit": 4720,
+      "close": 10,
+      "due": 8,
+      "minDue": 32.66,
+      "apr": 0,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": [
+        {
+          "id": "r8d9zvv20g",
+          "date": "2026-10-23",
+          "type": "payment",
+          "amount": 162,
+          "note": "",
+          "ts": 1793142274480
+        }
+      ]
+    },
+    {
+      "id": "uwbh0be",
+      "name": "Chase Freedom-6754",
+      "type": "revolving",
+      "closed": false,
+      "balance": 26.84,
+      "limit": 2700,
+      "close": 26,
+      "due": 23,
+      "minDue": 51,
+      "apr": 27.49,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": [
+        {
+          "id": "gy5a8qdtlf",
+          "date": "2026-10-27",
+          "type": "adjust",
+          "amount": 26.84,
+          "note": "Balance updated in account form",
+          "ts": 1793142356883
+        }
+      ]
+    },
+    {
+      "id": "51a4q2j",
+      "name": "Chase-1254-Closed",
+      "type": "revolving",
+      "closed": true,
+      "balance": 0,
+      "limit": 2300,
+      "close": 20,
+      "due": 23,
+      "minDue": 31.09,
+      "apr": 25.74,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": []
+    },
+    {
+      "id": "sdf3jcm",
+      "name": "Chase-6673-Closed",
+      "type": "revolving",
+      "closed": true,
+      "balance": 276.49,
+      "limit": 3000,
+      "close": 26,
+      "due": 8,
+      "minDue": 92,
+      "apr": 27.74,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": "",
+      "payments": [
+        {
+          "id": "rx06l0t1i0",
+          "date": "2026-10-27",
+          "type": "adjust",
+          "amount": 276.49,
+          "note": "Balance updated in account form",
+          "ts": 1793142367128
+        }
+      ]
+    },
+    {
+      "id": "zrodbw6",
+      "name": "MARINER FINANCE",
+      "type": "installment",
+      "closed": false,
+      "balance": 0,
+      "limit": 17100,
+      "close": 2,
+      "due": 2,
+      "minDue": 563,
+      "apr": 31,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "Mariner",
+      "portal": "https://loans.marinerfinance.com/customers/accountOverview",
+      "payments": []
+    },
+    {
+      "id": "2zdhesb",
+      "name": "Capital-3927",
+      "type": "revolving",
+      "closed": false,
+      "balance": 28.23,
+      "limit": 3050,
+      "close": 15,
+      "due": 9,
+      "minDue": 37,
+      "apr": 4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "Capital One",
+      "portal": "https://www.capitalone.com/",
+      "payments": [
+        {
+          "id": "rnu49jppsg",
+          "date": "2026-10-27",
+          "type": "adjust",
+          "amount": 28.23,
+          "note": "Balance updated in account form",
+          "ts": 1793142211984
+        }
+      ]
+    }
+  ],
+  "budget": {
+    "incomes": [
+      {
+        "id": "ln4qkroxzi",
+        "name": "Salazary",
+        "amount": 100000,
+        "freq": "annual"
+      },
+      {
+        "id": "dzi2wpk9r9",
+        "name": "VA",
+        "amount": 2300,
+        "freq": "monthly"
+      }
+    ],
+    "expenses": [
+      {
+        "id": "9uyg0o0eaw",
+        "name": "Car Loan - FCU",
+        "category": "Transportation",
+        "amount": 375
+      },
+      {
+        "id": "9crkbnjuui",
+        "name": "Internet - Spectrum",
+        "category": "Utilities",
+        "amount": 95
+      },
+      {
+        "id": "n3hk8mg2d7",
+        "name": "Gas",
+        "category": "Transportation",
+        "amount": 150
+      },
+      {
+        "id": "s51a9b2419",
+        "name": "Subscriptions",
+        "category": "Subscriptions",
+        "amount": 100
+      }
+    ],
+    "savings": 1000
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "app": "bcmp",
+  "product": "Budget and Credit Management Pro",
+  "version": "2.0",
+  "savedAt": "2026-10-19T19:53:24.301Z",
+  "target": 0,
+  "includeClosed": true,
+  "accounts": [
+    {
+      "id": "461c3yh",
+      "name": "USAA-9671",
+      "type": "revolving",
+      "closed": false,
+      "balance": 0,
+      "limit": 7000,
+      "close": 1,
+      "due": 9,
+      "minDue": 234,
+      "apr": 29.4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "0ih3qa9",
+      "name": "CapitalOne-3076",
+      "type": "revolving",
+      "closed": false,
+      "balance": 6322,
+      "limit": 7000,
+      "close": 27,
+      "due": 21,
+      "minDue": 80,
+      "apr": 4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "hq6i5o3",
+      "name": "Citi-7849",
+      "type": "revolving",
+      "closed": false,
+      "balance": 4687.34,
+      "limit": 4720,
+      "close": 10,
+      "due": 8,
+      "minDue": 32.66,
+      "apr": 0,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "uwbh0be",
+      "name": "Chase Freedom-6754",
+      "type": "revolving",
+      "closed": false,
+      "balance": 0,
+      "limit": 2700,
+      "close": 26,
+      "due": 23,
+      "minDue": 51,
+      "apr": 27.49,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "51a4q2j",
+      "name": "Chase-1254-Closed",
+      "type": "revolving",
+      "closed": true,
+      "balance": 1659.79,
+      "limit": 2300,
+      "close": 20,
+      "due": 23,
+      "minDue": 60,
+      "apr": 25.74,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "sdf3jcm",
+      "name": "Chase-6673-Closed",
+      "type": "revolving",
+      "closed": true,
+      "balance": 2242.49,
+      "limit": 3000,
+      "close": 26,
+      "due": 8,
+      "minDue": 92,
+      "apr": 27.74,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "",
+      "portal": ""
+    },
+    {
+      "id": "zrodbw6",
+      "name": "MARINER FINANCE",
+      "type": "installment",
+      "closed": false,
+      "balance": 0,
+      "limit": 17100,
+      "close": 2,
+      "due": 2,
+      "minDue": 563,
+      "apr": 31,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "Mariner",
+      "portal": "https://loans.marinerfinance.com/customers/accountOverview"
+    },
+    {
+      "id": "2zdhesb",
+      "name": "Capital-3927",
+      "type": "revolving",
+      "closed": false,
+      "balance": 2181.07,
+      "limit": 3050,
+      "close": 15,
+      "due": 9,
+      "minDue": 37,
+      "apr": 4,
+      "promoEnd": "",
+      "goApr": 0,
+      "bank": "Capital One",
+      "portal": "https://www.capitalone.com/"
+    }
+  ],
+  "budget": {
+    "incomes": [
+      {
+        "id": "ln4qkroxzi",
+        "name": "Salazary",
+        "amount": 100000,
+        "freq": "annual"
+      },
+      {
+        "id": "dzi2wpk9r9",
+        "name": "VA",
+        "amount": 2300,
+        "freq": "monthly"
+      }
+    ],
+    "expenses": [
+      {
+        "id": "9uyg0o0eaw",
+        "name": "Car Loan - FCU",
+        "category": "Transportation",
+        "amount": 375
+      },
+      {
+        "id": "9crkbnjuui",
+        "name": "Internet - Spectrum",
+        "category": "Utilities",
+        "amount": 95
+      },
+      {
+        "id": "n3hk8mg2d7",
+        "name": "Gas",
+        "category": "Transportation",
+        "amount": 150
+      },
+      {
+        "id": "s51a9b2419",
+        "name": "Subscriptions",
+        "category": "Subscriptions",
+        "amount": 100
+      }
+    ],
+    "savings": 1000
+  }
+}

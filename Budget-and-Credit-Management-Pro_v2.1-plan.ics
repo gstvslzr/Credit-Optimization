@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Budget and Credit Management Pro v2.1//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Budget and Credit Management Pro — payment plan
+BEGIN:VEVENT
+UID:bcmp-20261127-0-0ih3qa9@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Pay $31 → CapitalOne-3076
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $31 toward CapitalOne-3076 before the statement closes. Balance after: $0. Bank: Capital One.
+URL:https://www.capitalone.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $31 → CapitalOne-3076
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcmp-20261110-1-hq6i5o3@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261111
+SUMMARY:Pay $2\,098 → Citi-7849
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $2\,098 toward Citi-7849 before the statement closes. Balance after: $2\,428. Bank: Citi.
+URL:https://online.citi.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $2\,098 → Citi-7849
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcmp-20261126-2-uwbh0be@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Pay $28 → Chase Freedom-6754
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $28 toward Chase Freedom-6754 before the statement closes. Balance after: $0. Bank: Chase.
+URL:https://www.chase.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $28 → Chase Freedom-6754
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcmp-20261126-3-sdf3jcm@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+SUMMARY:Pay $289 → Chase-6673-Closed
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $289 toward Chase-6673-Closed before the statement closes. Balance after: $0. Bank: Chase.
+URL:https://www.chase.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $289 → Chase-6673-Closed
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcmp-20261115-4-2zdhesb@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+SUMMARY:Pay $28 → Capital-3927
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $28 toward Capital-3927 before the statement closes. Balance after: $0. Bank: Capital One.
+URL:https://www.capitalone.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $28 → Capital-3927
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bcmp-20261210-5-hq6i5o3@bcmp.local
+DTSTAMP:20261027T231026Z
+DTSTART;VALUE=DATE:20261210
+DTEND;VALUE=DATE:20261211
+SUMMARY:Pay $2\,428 → Citi-7849
+DESCRIPTION:Budget and Credit Management Pro (avalanche). Pay $2\,428 toward Citi-7849 before the statement closes. Balance after: $0. Bank: Citi.
+URL:https://online.citi.com/
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Pay $2\,428 → Citi-7849
+TRIGGER:-P1D
+END:VALARM
+END:VEVENT
+END:VCALENDAR
