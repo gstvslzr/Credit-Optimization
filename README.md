@@ -6,7 +6,7 @@ Budget and Credit Management Pro
 
 ## Features
 
-_List the main features here._
+<!-- MGP-TODO: list the main features here -->
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Download the `.html` file and open it in your browser. No install or server requ
 
 ## Usage
 
-_Describe how to use the app (screenshots help)._
+Open `Budget-and-Credit-Management-Pro_v2.1.html` in your browser.
 
 ## Changelog
 
